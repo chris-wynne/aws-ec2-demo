@@ -1,6 +1,11 @@
 # aws-ec2-demo
 terraform demo for ssh access to ec2
 
+## Guides
+
+1. https://medium.com/@hmalgewatta/setting-up-an-aws-ec2-instance-with-ssh-access-using-terraform-c336c812322f
+2. https://medium.com/@christyjacob4/using-vscode-remotely-on-an-ec2-instance-7822c4032cff
+3. https://www.youtube.com/watch?v=yrFcA7GuB0g
 ## Docker Instructions
 
 Below are instructions for setting up and using Docker.
