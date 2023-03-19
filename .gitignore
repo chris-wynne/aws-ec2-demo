@@ -30,3 +30,5 @@ override.tf.json
 
 #credentials
 aws-credentials
+crt_files
+test_ec2.pem
